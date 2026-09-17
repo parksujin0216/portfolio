@@ -1,0 +1,1 @@
+I can use programming language such as Java, Python, and JavaScript. I hold the SQLD certification and can write SQL queries. I can build a calendar on my own using JavaScript. I have worked on about four project as a frontend and can deploy them myself.
